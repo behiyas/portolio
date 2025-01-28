@@ -25,3 +25,6 @@
 - Delivered SAP Enterprise Threat Detection module to National League Hockey IT Director Daniel Clavet, providing a comprehensive threat management solution.
 - Prioritized 200 security patterns across critical, high, medium, and low levels, enabling streamlined threat detection and response.
 - Contributed to achieving the CyberSecure Canada certification, reinforcing the organization’s cybersecurity posture.
+
+## Projects
+### Innovation series | ISQM CHATGPT | HLB Djibouti
