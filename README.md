@@ -28,3 +28,4 @@
 
 ## Projects
 ### Innovation series | ISQM CHATGPT | HLB Djibouti
+![article](https://github.com/behiyas/portolio/blob/e44e01088544d13170126cb59dec6624c11eca2b/hlb.png)
