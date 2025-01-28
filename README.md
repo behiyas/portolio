@@ -31,4 +31,4 @@
 ![article](/hlb.png)
 
 ### Analysis of Malicious Codes
-![elk](/elk.png)
+![elk](/splunk.png)
