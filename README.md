@@ -27,7 +27,7 @@
 - Contributed to achieving the CyberSecure Canada certification, reinforcing the organization’s cybersecurity posture.
 
 ## Projects
-### Innovation series | ISQM CHATGPT | HLB Djibouti
+### Innovation series | ISQM CHATGPT | HLB International
 ![article](/hlb.png)
 
 ### Analysis of Malicious Codes
