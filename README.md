@@ -1,10 +1,10 @@
 # Cybersecurity Analyst
-#### Technical Skills: ISQM1, ISQM2, Cybersecurity, IT Infrastructure, Automation, Qualys, CyberArk, SAP
+#### Technical Skills: Python, SQL Qualys, Splunk, CyberArk, Security Onion, NIST 800‑61, OWASP Top Ten, MITRE, ISQM 1, ISQM 2.
 
 ## Education
-B.Sc., Cybersecurity | Polytechnique Montreal, QC
+- B.Sc., Cybersecurity | Polytechnique Montreal, QC
 
-##Professional Experience
+## Professional Experience
 
 **Information Technology Supervisort @ HLB International (_November 2023 – Present_)**
 
