@@ -32,3 +32,4 @@
 
 ### Analysis of Malicious Codes
 ![malware](/malware.png)
+![elk](/elk.png)
