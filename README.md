@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL Qualys, Splunk, CyberArk, Security Onion, NIST 800‑61, OWASP Top Ten, MITRE
 
 ## Education
-- B.Sc., Cybersecurity | Polytechnique Montreal, QC
+- B.Sc., Cybersecurity | The University of Polytechnique Montreal
 
 ## Professional Experience
 
