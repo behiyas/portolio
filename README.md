@@ -1,5 +1,5 @@
 # Cybersecurity Analyst
-#### Technical Skills: Python, SQL Qualys, Splunk, CyberArk, Security Onion, NIST 800‑61, OWASP Top Ten, MITRE, ISQM 1, ISQM 2
+#### Technical Skills: Python, SQL Qualys, Splunk, CyberArk, Security Onion, NIST 800‑61, OWASP Top Ten, MITRE
 
 ## Education
 - B.Sc., Cybersecurity | Polytechnique Montreal, QC
