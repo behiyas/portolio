@@ -29,3 +29,6 @@
 ## Projects
 ### Innovation series | ISQM CHATGPT | HLB Djibouti
 ![article](/hlb.png)
+
+### Analysis of Malicious Codes
+
