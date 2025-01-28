@@ -13,7 +13,7 @@
 - Oversaw IT infrastructure and external audit systems while ensuring seamless integration of compliance workflows.
 - Directed technology initiatives and provided mentorship to team members across diverse roles and expertise levels.
   
-**Cybersecurity Analyst @ Société Générale (_August 2022 – February 2023_)**
+**Cybersecurity Analyst @ Alten Canada (_August 2022 – February 2023_)**
 
 - Collaborated with application managers in North America, France, and India, demonstrating proficiency in Qualys and CyberArk tools.
 - Administered the Risk Acceptance Process and False Positives Mitigation for banking applications across the AMER region.
